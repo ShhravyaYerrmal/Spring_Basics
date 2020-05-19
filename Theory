@@ -1,11 +1,4 @@
-Spring Framework:
-1.Open Source Platform.
-2.It was discovered by ROd Johnson.
-3.Initial name of Spring Framework was interface 21.
-
-SPRING came as an alternative for EJB's (Enterprise Java Beans)
-
-Issues with EJB:
-1. Tightly coupled.
-2. It was dependent on Application server.
+Advantages of SPRING:
+1.Loosely coupled.
+2.Depends on simple jars and jdk .
 
