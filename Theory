@@ -1,0 +1,10 @@
+Advantages of SPRING:
+1.Loosely coupled.
+2.Depends on simple jars and jdk .
+
+Tightly Coupled : When one object creates another object inside its class any change in other object will not be possible from outside world
+                  (i-e driver class).
+Loosely Coupled : The dependency between modules must be via inyterfaces.
+      
+                  
+                  
